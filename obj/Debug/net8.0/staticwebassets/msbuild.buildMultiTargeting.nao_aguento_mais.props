@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nao_aguento_mais.props" />
+</Project>
